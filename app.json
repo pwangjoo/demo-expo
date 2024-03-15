@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "81c35f9d-0f19-44d6-a844-27a81cd88249"
+      }
+    },
+    "owner": "pwangjoo"
   }
 }
